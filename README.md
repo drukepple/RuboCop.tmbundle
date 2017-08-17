@@ -29,8 +29,8 @@ This should work for almost all setups and versions of Ruby / RuboCop. Feel free
 ## Installation
 
 ```shell
-mkdir -p ~/Library/Application\ Support/Avian/Bundles
-cd ~/Library/Application\ Support/Avian/Bundles
+mkdir -p ~/Library/Application\ Support/TextMate/Bundles
+cd ~/Library/Application\ Support/TextMate/Bundles
 git clone https://github.com/noniq/RuboCop.tmbundle.git
 ```
 
